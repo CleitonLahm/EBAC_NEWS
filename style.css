@@ -23,3 +23,11 @@ header{
   padding: 16px 0;
   border-bottom: 1px solid #ccc;
 }
+
+.menu li{
+  float: left;
+}
+
+.submenu{
+  display: none;
+}
